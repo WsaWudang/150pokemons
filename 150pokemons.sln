@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "150pokemons", "150pokemons.pyproj", "{CA6DD9D0-C2C2-41EB-93D0-2BC4A0748697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6DD9D0-C2C2-41EB-93D0-2BC4A0748697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6DD9D0-C2C2-41EB-93D0-2BC4A0748697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A59E109B-3C1C-4363-980E-E81BB50DAB5B}
+	EndGlobalSection
+EndGlobal
